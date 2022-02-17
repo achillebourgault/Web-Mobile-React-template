@@ -5,12 +5,19 @@
 > #### 🌐 Authentication
 >> 👥 _Login and register to server_
 
-<img height="400" src="imgs/login.png" width="225"/> 
-<img height="400" src="imgs/register.png" width="225"/> 
+<p align="center">
+  <img height="450" src="imgs/login.png" width="225"/> 
+  <img height="450" src="imgs/register.png" width="225"/> 
+</p>
 
-> Navigation 
 
-![](imgs/navigation.png)
+> #### Navigation 
+
+<p align="center">
+  <img src="imgs/navigation.png" /> 
+  
+</p>
+
 
 
 ## Libraries used
