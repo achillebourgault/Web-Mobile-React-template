@@ -1,4 +1,6 @@
-# 📱 React / React native Starter Kit
+# 📱 React / React Native Starter Kit
+
+An easy way to init a new Web / Mobile application with default features.
 
 ### Features
 
