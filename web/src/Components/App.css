@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.AppTitle {
+  font-size: 140px;
+  text-align: center;
+}
+
+.AppDesc {
+  font-size: 35px;
+  color: #484848;
+  margin-top: 1%;
+}
+
+.view-body {
+  width: 100%;
+  display: flex;
+  margin-top: 75px;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+@media all and (max-width: 1300px) {
+
+  .AppTitle {
+    font-size: 105px;
+  }
+  .AppDesc {
+    font-size: 30px;
+  }
+
+}
+
+@media all and (max-width: 995px) {
+
+  .navbar {
+    height: 55px;
+  }
+
+  .AppTitle {
+    font-size: 75px;
+  }
+
+  .AppDesc {
+    font-size: 22px;
+  }
+
+}
+
+
+.App-link {
+  color: #09d3ac;
+}
+
+.nav-link:hover{
+  background: #4a6f96;
+}
